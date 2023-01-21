@@ -19,3 +19,6 @@ Plese download data to ./feedback-prize-english-language-learning from https://w
 I used several pretrained models that are publicly available in the kaggle dataset. Please download it to the ./models and unzip it.
 
 # Train
+You can train various models such as DeBERTa, RoBERTa, Funnel, etc. through the notebook located at "./exp."
+
+![スクリーンショット (303)](https://user-images.githubusercontent.com/82075657/213848684-6b359fb0-f3eb-48bf-8587-20d22f5fcec0.png)
